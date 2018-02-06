@@ -1,0 +1,8 @@
+100.0,5.0,Benian Tumar
+120.0,4.0,Benian Tumar
+110.0,3.0,Benian Tumar
+120.0,8.0,Benian Tumar
+110.0,8.0,Maricular Tumar
+160.0,6.0,Maricular Tumar
+220.0,5.0,Maricular Tumar
+160.0,8.0,Maricular Tumar
